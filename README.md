@@ -21,11 +21,12 @@ Voici un bot film qui permet de gérer les films, il est souvent utilisé pour l
 4. Lance le bot : `node index.js`
 
 ### Configuration du fichier `config.json`
-json
+```json
 {
   "token": "TON_TOKEN_BOT",
   ... il yaura écrit
 }
+```
 ## :keyboard: Commandes
 - `create` : Permet de creer une nouvelle affiche.
 - `menu-recherche` : Fait apparaitre l'embed de recherche. Modérateur Uniquement.".
