@@ -15,7 +15,7 @@ Voici un bot film qui permet de gérer les films, il est souvent utilisé pour l
 - Discord.js (version 13.9.0)
 
 ### Étapes d'installation
-1. Clone le repository : `git clone https://github.com/ton-repository.git`
+1. Clone le repository : `git clone https://github.com/Ruwin-dsc/botfilm.git`
 2. Installe les dépendances : `npm install`
 3. Configure ton fichier de configuration `config.js` avec les informations nécessaires.
 4. Lance le bot : `node index.js`
